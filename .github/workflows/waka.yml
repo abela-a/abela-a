@@ -16,7 +16,6 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_TOTAL_CODE_TIME: false
           SHOW_SHORT_INFO: false
-          COMMIT_BY_ME: true
           COMMIT_MESSAGE: "🤙🏻 Update dev logs"
           SHOW_UPDATED_DATE: false
           SHOW_LOC_CHART: false
