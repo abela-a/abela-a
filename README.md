@@ -28,6 +28,45 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                145319 commits      ████████░░░░░░░░░░░░░░░░░   33.30 % 
+🌆 Daytime                233337 commits      █████████████░░░░░░░░░░░░   53.47 % 
+🌃 Evening                53965 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌙 Night                  3801 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   83177 commits       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Tuesday                  89665 commits       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Wednesday                86248 commits       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Thursday                 86197 commits       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Friday                   74525 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Saturday                 10490 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Sunday                   6120 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text
