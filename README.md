@@ -28,6 +28,54 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                467860 commits      ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌆 Daytime                808088 commits      ██████████████░░░░░░░░░░░   55.30 % 
+🌃 Evening                174134 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+🌙 Night                  11174 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   287295 commits      █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Tuesday                  307584 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Wednesday                277994 commits      █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Thursday                 266172 commits      █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Friday                   259911 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Saturday                 34874 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Sunday                   27426 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+PHP                      9 hrs 58 mins       ███████████░░░░░░░░░░░░░░   45.66 % 
+Blade Template           5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JavaScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 51 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+medica-app               14 hrs 17 mins      ████████████████░░░░░░░░░   65.40 % 
+syncmed-service-admisi   5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+syncmed-frontend         1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+tasknest-book-publisher  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+syncmed-gateway          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+💻 Operating System: 
+Windows                  15 hrs 2 mins       █████████████████░░░░░░░░   68.81 % 
+Linux                    6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
