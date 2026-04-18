@@ -28,54 +28,6 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                466975 commits      ████████░░░░░░░░░░░░░░░░░   32.02 % 
-🌆 Daytime                806390 commits      ██████████████░░░░░░░░░░░   55.30 % 
-🌃 Evening                173796 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-🌙 Night                  11154 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   286691 commits      █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Tuesday                  306963 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Wednesday                277470 commits      █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Thursday                 265693 commits      █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Friday                   259335 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Saturday                 34805 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Sunday                   27358 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-PHP                      9 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.40 % 
-Blade Template           5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 49 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-medica-app               14 hrs 17 mins      █████████████████░░░░░░░░   68.63 % 
-syncmed-service-admisi   4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-syncmed-frontend         1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-tasknest-book-publisher  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-order                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-💻 Operating System: 
-Windows                  14 hrs 52 mins      ██████████████████░░░░░░░   71.45 % 
-Linux                    5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
