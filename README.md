@@ -28,6 +28,55 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                481103 commits      ████████░░░░░░░░░░░░░░░░░   32.05 % 
+🌆 Daytime                829932 commits      ██████████████░░░░░░░░░░░   55.28 % 
+🌃 Evening                178661 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌙 Night                  11571 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   294977 commits      █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Tuesday                  316008 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Wednesday                285614 commits      █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Thursday                 273762 commits      █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Friday                   266533 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Saturday                 36051 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Sunday                   28322 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+JavaScript               2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Blade Template           1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+PHP                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Bash                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 7 mins        █████████████████░░░░░░░░   66.78 % 
+Antigravity              2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
+
+🐱‍💻 Projects: 
+medica-app               3 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.66 % 
+sitta-praktik            2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+syncmed-frontend         1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Customer                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+syncmed-service-admisi   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+
+💻 Operating System: 
+Windows                  6 hrs 30 mins       █████████████████████░░░░   84.78 % 
+Linux                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
