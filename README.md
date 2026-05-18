@@ -28,55 +28,6 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                449866 commits      ████████░░░░░░░░░░░░░░░░░   32.24 % 
-🌆 Daytime                769920 commits      ██████████████░░░░░░░░░░░   55.17 % 
-🌃 Evening                165187 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-🌙 Night                  10538 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   273894 commits      █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Tuesday                  294021 commits      █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Wednesday                266934 commits      █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Thursday                 256636 commits      █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   246632 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Saturday                 32656 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Sunday                   24738 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-Blade Template           1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-JavaScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-PHP                      1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Bash                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 40 mins       ███████████████████░░░░░░   77.00 % 
-Antigravity              1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-
-🐱‍💻 Projects: 
-medica-app               3 hrs 50 mins       ████████████████░░░░░░░░░   63.25 % 
-syncmed-frontend         1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-sitta-praktik            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-syncmed-service-admisi   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Customer                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-
-💻 Operating System: 
-Windows                  4 hrs 40 mins       ███████████████████░░░░░░   77.00 % 
-Linux                    1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
