@@ -28,6 +28,54 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                444881 commits      ████████░░░░░░░░░░░░░░░░░   32.27 % 
+🌆 Daytime                760065 commits      ██████████████░░░░░░░░░░░   55.13 % 
+🌃 Evening                163330 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌙 Night                  10460 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   270367 commits      █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Tuesday                  290324 commits      █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Wednesday                264029 commits      █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Thursday                 254097 commits      █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Friday                   243297 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 32322 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Sunday                   24300 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+JavaScript               1 hr 52 mins        ████████████░░░░░░░░░░░░░   47.43 % 
+Python                   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Blade Template           37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+PHP                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+
+🔥 Editors: 
+Antigravity              3 hrs 30 mins       ██████████████████████░░░   89.08 % 
+VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+
+🐱‍💻 Projects: 
+syncmed-frontend         1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.45 % 
+syncmed-service-pdf      42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+syncmed-service-admisi   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+medica-app               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+
+💻 Operating System: 
+Linux                    3 hrs 18 mins       █████████████████████░░░░   83.74 % 
+Windows                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
