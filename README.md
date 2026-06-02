@@ -28,52 +28,6 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                299343 commits      ████████░░░░░░░░░░░░░░░░░   33.00 % 
-🌆 Daytime                489473 commits      █████████████░░░░░░░░░░░░   53.96 % 
-🌃 Evening                110650 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌙 Night                  7605 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   173296 commits      █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Tuesday                  188359 commits      █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Wednesday                178628 commits      █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Thursday                 176266 commits      █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Friday                   154893 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Saturday                 22375 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Sunday                   13254 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-JavaScript               2 hrs 33 mins       ██████████████░░░░░░░░░░░   56.31 % 
-PHP                      1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-HTML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Jinja2                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-
-🔥 Editors: 
-Antigravity              3 hrs 55 mins       ██████████████████████░░░   86.04 % 
-VS Code                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-
-🐱‍💻 Projects: 
-syncmed-frontend         3 hrs 8 mins        █████████████████░░░░░░░░   68.85 % 
-syncmed-service-admisi   1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-syncmed-service-pdf      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-
-💻 Operating System: 
-Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
