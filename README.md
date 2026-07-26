@@ -31,21 +31,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                454646 commits      ████████░░░░░░░░░░░░░░░░░   32.83 % 
-🌆 Daytime                755388 commits      ██████████████░░░░░░░░░░░   54.55 % 
-🌃 Evening                162761 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-🌙 Night                  12041 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+🌞 Morning                456726 commits      ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌆 Daytime                759086 commits      ██████████████░░░░░░░░░░░   54.56 % 
+🌃 Evening                163456 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌙 Night                  12079 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   266784 commits      █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Tuesday                  291831 commits      █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Wednesday                267406 commits      █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Thursday                 262194 commits      █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Friday                   237864 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Saturday                 34767 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Sunday                   23990 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Monday                   268109 commits      █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Tuesday                  293263 commits      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Wednesday                268591 commits      █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Thursday                 263318 commits      █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Friday                   239031 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 34899 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Sunday                   24136 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 
 
@@ -55,27 +55,27 @@ Sunday                   23990 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-JavaScript               5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
-PHP                      3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-HTML                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Jinja2                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JavaScript               5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
+PHP                      3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+HTML                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Blade Template           1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 18 mins      ███████████████████████░░   92.72 % 
-VS Code                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Antigravity IDE          11 hrs 18 mins      ████████████████████░░░░░   79.18 % 
+VS Code                  2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-syncmed-frontend         7 hrs 33 mins       ███████████████░░░░░░░░░░   61.95 % 
-syncmed-service-admisi   3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-medica-app               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-syncmed-service-pdf      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-syncmed-jenkins-shared-li9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+syncmed-frontend         7 hrs 33 mins       █████████████░░░░░░░░░░░░   52.91 % 
+syncmed-service-admisi   3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+medica-app               2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+syncmed-service-pdf      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+syncmed-jenkins-shared-li9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Linux                    11 hrs 18 mins      ███████████████████████░░   92.72 % 
-Windows                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Linux                    11 hrs 18 mins      ████████████████████░░░░░   79.18 % 
+Windows                  2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
 ```
 
 **I Mostly Code in PHP** 
