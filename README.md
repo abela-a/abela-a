@@ -33,21 +33,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                583321 commits      ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌆 Daytime                995491 commits      ██████████████░░░░░░░░░░░   55.12 % 
-🌃 Evening                211796 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-🌙 Night                  15366 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+🌞 Morning                585061 commits      ████████░░░░░░░░░░░░░░░░░   32.30 % 
+🌆 Daytime                998270 commits      ██████████████░░░░░░░░░░░   55.12 % 
+🌃 Evening                212341 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌙 Night                  15435 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   352935 commits      █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Tuesday                  381293 commits      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Wednesday                342480 commits      █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Thursday                 332061 commits      █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   316476 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Saturday                 45293 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Sunday                   35436 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Monday                   353951 commits      █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Tuesday                  382387 commits      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Wednesday                343396 commits      █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Thursday                 333013 commits      █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Friday                   317318 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Saturday                 45440 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Sunday                   35602 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 
@@ -57,52 +57,52 @@ Sunday                   35436 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-PHP                      3 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.01 % 
-JavaScript               3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
-Jinja2                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+PHP                      3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
+JavaScript               2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
+Jinja2                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 25 mins       ████████████████████░░░░░   79.82 % 
-Claude Code              1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Antigravity IDE          6 hrs 13 mins       ████████████████████░░░░░   79.32 % 
+Claude Code              1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-syncmed-service-admisi   3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
-syncmed-frontend         3 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-syncmed-service-pdf      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-syncmed-gateway          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-medica-app               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+syncmed-service-admisi   3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+syncmed-frontend         3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.47 % 
+syncmed-service-pdf      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+syncmed-gateway          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+medica-app               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Linux                    6 hrs 25 mins       ████████████████████░░░░░   79.82 % 
-Windows                  1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Linux                    6 hrs 13 mins       ████████████████████░░░░░   79.32 % 
+Windows                  1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 3 mins (75.11%)
+⏱ AI Coding Time: 5 hrs 53 mins (75.04%)
 
-✍️ 1,428 lines written by AI, 127 lines written by hand (91.83% AI-written)
+✍️ 1,422 lines written by AI, 126 lines written by hand (91.86% AI-written)
 
 🔤 13,033,987 Input Tokens, 49,072 Output Tokens
 
 💵 $39.84 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 61 AI Prompts
+🧠 11 AI Sessions, 59 AI Prompts
 
-Gemini                   1,204 lines         █████████████████░░░░░░░░   66.70 % 
-Sonnet                   601 lines           ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Gemini                   1,198 lines         █████████████████░░░░░░░░   66.59 % 
+Sonnet                   601 lines           ████████░░░░░░░░░░░░░░░░░   33.41 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.83% of written lines came from AI
-📚 Verbose Prompter — average 2,570 characters per prompt
+🤖 AI-Driven — 91.86% of written lines came from AI
+📚 Verbose Prompter — average 2,653 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 25.78% of changed lines were hand-edited
+🚀 High AI Trust — 25.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
