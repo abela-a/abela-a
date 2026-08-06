@@ -57,52 +57,52 @@ Sunday                   35799 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-JavaScript               3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-PHP                      2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-Jinja2                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript               2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
+PHP                      2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.96 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Jinja2                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 4 mins        ███████████████████░░░░░░   77.26 % 
-Claude Code              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Antigravity IDE          3 hrs 8 mins        ████████████████░░░░░░░░░   63.76 % 
+Claude Code              1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-syncmed-frontend         3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-syncmed-service-admisi   2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-syncmed-service-pdf      1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-syncmed-gateway          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-medica-app               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+syncmed-frontend         2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
+syncmed-service-admisi   2 hrs               ██████████░░░░░░░░░░░░░░░   40.70 % 
+syncmed-gateway          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+syncmed-service-pdf      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+medica-app               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Linux                    6 hrs 4 mins        ███████████████████░░░░░░   77.26 % 
-Windows                  1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Linux                    3 hrs 8 mins        ████████████████░░░░░░░░░   63.76 % 
+Windows                  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 10 mins (65.93%)
+⏱ AI Coding Time: 3 hrs 10 mins (64.45%)
 
-✍️ 4,051 lines written by AI, 43 lines written by hand (98.95% AI-written)
+✍️ 3,372 lines written by AI, 26 lines written by hand (99.23% AI-written)
 
 🔤 13,126,219 Input Tokens, 53,780 Output Tokens
 
 💵 $40.19 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 57 AI Prompts
+🧠 14 AI Sessions, 31 AI Prompts
 
-Sonnet                   3,407 lines         ███████████████████░░░░░░   76.84 % 
-Gemini                   1,027 lines         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Sonnet                   3,407 lines         █████████████████████████   98.10 % 
+Gemini                   66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.95% of written lines came from AI
-📚 Verbose Prompter — average 2,823 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.23% of written lines came from AI
+📚 Verbose Prompter — average 4,116 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
