@@ -28,26 +28,24 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2057%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                535336 commits      ████████░░░░░░░░░░░░░░░░░   32.57 % 
-🌆 Daytime                901866 commits      ██████████████░░░░░░░░░░░   54.88 % 
-🌃 Evening                192219 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌙 Night                  13980 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+🌞 Morning                459542 commits      ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌆 Daytime                759123 commits      ██████████████░░░░░░░░░░░   54.41 % 
+🌃 Evening                164060 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌙 Night                  12494 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   319736 commits      █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Tuesday                  346884 commits      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Wednesday                314076 commits      █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Thursday                 306597 commits      █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Friday                   285240 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Saturday                 40662 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Sunday                   30206 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Monday                   268222 commits      █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Tuesday                  293718 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Wednesday                269484 commits      █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Thursday                 265421 commits      █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Friday                   238464 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 35548 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Sunday                   24362 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
@@ -57,52 +55,52 @@ Sunday                   30206 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-JavaScript               2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
-PHP                      2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.96 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Jinja2                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+PHP                      1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.76 % 
+JavaScript               1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.29 % 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Jinja2                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 8 mins        ████████████████░░░░░░░░░   63.76 % 
-Claude Code              1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Antigravity IDE          1 hr 55 mins        █████████████░░░░░░░░░░░░   51.88 % 
+Claude Code              1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+VS Code                  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🐱‍💻 Projects: 
-syncmed-frontend         2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-syncmed-service-admisi   2 hrs               ██████████░░░░░░░░░░░░░░░   40.70 % 
-syncmed-gateway          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-syncmed-service-pdf      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-medica-app               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+syncmed-frontend         1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.30 % 
+syncmed-service-admisi   1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+syncmed-gateway          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+syncmed-service-pdf      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+medica-app               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Linux                    3 hrs 8 mins        ████████████████░░░░░░░░░   63.76 % 
-Windows                  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
+Linux                    1 hr 55 mins        █████████████░░░░░░░░░░░░   51.88 % 
+Windows                  1 hr 47 mins        ████████████░░░░░░░░░░░░░   48.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (64.45%)
+⏱ AI Coding Time: 2 hrs 28 mins (66.55%)
 
-✍️ 3,372 lines written by AI, 26 lines written by hand (99.23% AI-written)
+✍️ 3,348 lines written by AI, 12 lines written by hand (99.64% AI-written)
 
 🔤 13,126,219 Input Tokens, 53,780 Output Tokens
 
 💵 $40.19 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 31 AI Prompts
+🧠 11 AI Sessions, 20 AI Prompts
 
-Sonnet                   3,407 lines         █████████████████████████   98.10 % 
-Gemini                   66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Sonnet                   3,407 lines         █████████████████████████   99.24 % 
+Gemini                   26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.23% of written lines came from AI
-📚 Verbose Prompter — average 4,116 characters per prompt
+🤖 AI-Driven — 99.64% of written lines came from AI
+📚 Verbose Prompter — average 5,800 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.22% of changed lines were hand-edited
+🚀 High AI Trust — 0.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
