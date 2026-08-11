@@ -33,21 +33,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                595876 commits      ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌆 Daytime                1015141 commits     ██████████████░░░░░░░░░░░   55.09 % 
-🌃 Evening                215982 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌙 Night                  15824 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌞 Morning                463570 commits      ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌆 Daytime                766096 commits      ██████████████░░░░░░░░░░░   54.42 % 
+🌃 Evening                165434 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌙 Night                  12598 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   360029 commits      █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Tuesday                  389073 commits      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Wednesday                349342 commits      █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Thursday                 339234 commits      █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Friday                   322394 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Saturday                 46381 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Sunday                   36370 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Monday                   270709 commits      █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Tuesday                  296427 commits      █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Wednesday                271785 commits      █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Thursday                 267633 commits      █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Friday                   240635 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 35844 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Sunday                   24665 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
@@ -85,7 +85,7 @@ Windows                  12 mins             ███░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 57 mins (48.08%)
 
-✍️ 3,924 lines written by AI, 12 lines written by hand (99.7% AI-written)
+✍️ 3,924 lines written by AI, 20 lines written by hand (99.49% AI-written)
 
 🔤 92,232 Input Tokens, 4,708 Output Tokens
 
@@ -97,10 +97,10 @@ Sonnet                   3,904 lines         ███████████�
 Gemini                   26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
+🤖 AI-Driven — 99.49% of written lines came from AI
 📄 Detailed Prompter — average 1,026 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.63% of changed lines were hand-edited
+🚀 High AI Trust — 0.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
