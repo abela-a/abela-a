@@ -57,50 +57,43 @@ Sunday                   36420 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-PHP                      58 mins             ████████████░░░░░░░░░░░░░   49.34 % 
-JavaScript               28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Jinja2                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript               9 mins              ██████████████░░░░░░░░░░░   56.59 % 
+HTML                     4 mins              ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 47 mins        ██████████████████████░░░   89.75 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Antigravity IDE          14 mins             █████████████████████░░░░   85.73 % 
+VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 🐱‍💻 Projects: 
-syncmed-service-admisi   58 mins             ████████████░░░░░░░░░░░░░   49.26 % 
-syncmed-frontend         39 mins             ████████░░░░░░░░░░░░░░░░░   33.12 % 
-syncmed-service-pdf      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-syncmed-service-media    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-medica-app               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+syncmed-frontend         14 mins             █████████████████████░░░░   85.73 % 
+medica-app               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        ██████████████████████░░░   89.75 % 
-Windows                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Linux                    14 mins             █████████████████████░░░░   85.73 % 
+Windows                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (48.08%)
+⏱ AI Coding Time: 13 mins (82.41%)
 
-✍️ 3,924 lines written by AI, 20 lines written by hand (99.49% AI-written)
+✍️ 15 lines written by AI, 8 lines written by hand (65.22% AI-written)
 
-🔤 92,232 Input Tokens, 4,708 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.23 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Sonnet                   3,904 lines         █████████████████████████   99.34 % 
-Gemini                   26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Gemini                   15 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.49% of written lines came from AI
-📄 Detailed Prompter — average 1,026 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.83% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.22% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 34.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
