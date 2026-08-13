@@ -57,43 +57,22 @@ Sunday                   36489 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-JavaScript               9 mins              ██████████████░░░░░░░░░░░   56.59 % 
-HTML                     4 mins              ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Markdown                 2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          14 mins             █████████████████████░░░░   85.73 % 
-VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-syncmed-frontend         14 mins             █████████████████████░░░░   85.73 % 
-medica-app               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+medica-app               2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████░░░░   85.73 % 
-Windows                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (82.41%)
-
-✍️ 15 lines written by AI, 8 lines written by hand (65.22% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Gemini                   15 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.22% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 34.78% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
