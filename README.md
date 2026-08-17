@@ -33,21 +33,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                601839 commits      ████████░░░░░░░░░░░░░░░░░   32.34 % 
-🌆 Daytime                1024798 commits     ██████████████░░░░░░░░░░░   55.08 % 
-🌃 Evening                218006 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌙 Night                  16046 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌞 Morning                395063 commits      ████████░░░░░░░░░░░░░░░░░   33.26 % 
+🌆 Daytime                644509 commits      ██████████████░░░░░░░░░░░   54.25 % 
+🌃 Evening                137701 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌙 Night                  10704 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   363516 commits      █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Tuesday                  392850 commits      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Wednesday                352617 commits      █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 342548 commits      █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Friday                   325387 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Saturday                 46885 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Sunday                   36886 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Monday                   229148 commits      █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Tuesday                  249674 commits      █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Wednesday                228399 commits      █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Thursday                 228030 commits      █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Friday                   201107 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Saturday                 30230 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Sunday                   21389 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 
@@ -57,16 +57,16 @@ Sunday                   36886 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.00 % 
+Markdown                 1 hr 14 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-medica-app               2 mins              █████████████████████████   100.00 % 
+Unknown Project          1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
