@@ -57,22 +57,42 @@ Sunday                   36894 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 14 mins        █████████████░░░░░░░░░░░░   52.57 % 
+HTML                     1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.60 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        ███████████████████░░░░░░   74.30 % 
+Claude Code              36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 14 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 14 mins        █████████████░░░░░░░░░░░░   52.57 % 
+Downloads                1 hr 7 mins         ████████████░░░░░░░░░░░░░   47.43 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 51 mins (35.87%)
+
+✍️ 454 lines written by AI, 94 lines written by hand (82.85% AI-written)
+
+🔤 121,276 Input Tokens, 33,848 Output Tokens
+
+💵 $1.44 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Sonnet                   455 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.85% of written lines came from AI
+📝 Concise Prompter — average 388 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 78.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
