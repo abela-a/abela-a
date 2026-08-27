@@ -33,21 +33,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                161586 commits      █████████░░░░░░░░░░░░░░░░   34.22 % 
-🌆 Daytime                250511 commits      █████████████░░░░░░░░░░░░   53.06 % 
-🌃 Evening                55385 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-🌙 Night                  4660 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌞 Morning                370450 commits      ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌆 Daytime                620475 commits      ██████████████░░░░░░░░░░░   54.53 % 
+🌃 Evening                136236 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌙 Night                  10801 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   89285 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Tuesday                  98502 commits       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Wednesday                92147 commits       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Thursday                 96447 commits       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Friday                   74865 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Saturday                 13170 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Sunday                   7726 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Monday                   219108 commits      █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Tuesday                  239423 commits      █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Wednesday                217686 commits      █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Thursday                 214024 commits      █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Friday                   195060 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Saturday                 30681 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Sunday                   21980 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 
@@ -57,20 +57,20 @@ Sunday                   7726 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 27 mins             ██████████░░░░░░░░░░░░░░░   38.33 % 
-Text                     24 mins             █████████░░░░░░░░░░░░░░░░   34.47 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 27 mins             ██████████░░░░░░░░░░░░░░░   38.30 % 
+Text                     24 mins             █████████░░░░░░░░░░░░░░░░   34.44 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-Claude Code              35 mins             █████████████░░░░░░░░░░░░   50.40 % 
-VS Code                  35 mins             ████████████░░░░░░░░░░░░░   49.60 % 
+Claude Code              35 mins             █████████████░░░░░░░░░░░░   50.35 % 
+VS Code                  35 mins             ████████████░░░░░░░░░░░░░   49.65 % 
 
 🐱‍💻 Projects: 
-medica-app               35 mins             ████████████░░░░░░░░░░░░░   49.60 % 
-Application              29 mins             ██████████░░░░░░░░░░░░░░░   41.16 % 
-app                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+medica-app               35 mins             ████████████░░░░░░░░░░░░░   49.65 % 
+Application              29 mins             ██████████░░░░░░░░░░░░░░░   41.12 % 
+app                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 💻 Operating System: 
 Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
@@ -79,7 +79,7 @@ Windows                  1 hr 10 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (50.4%)
+⏱ AI Coding Time: 35 mins (50.35%)
 
 ✍️ 1,227 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
