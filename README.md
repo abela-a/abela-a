@@ -57,33 +57,33 @@ Sunday                   37577 commits       ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 47 mins             ██████████████░░░░░░░░░░░   56.00 % 
-Groovy                   23 mins             ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-PHP                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   35.25 % 
+Groovy                   23 mins             ████████░░░░░░░░░░░░░░░░░   31.30 % 
+PHP                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ██████████████████░░░░░░░   71.85 % 
-Claude Code              23 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+VS Code                  50 mins             █████████████████░░░░░░░░   67.96 % 
+Claude Code              23 mins             ████████░░░░░░░░░░░░░░░░░   32.04 % 
 
 🐱‍💻 Projects: 
-medica-app               26 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
-syncmed-jenkins          23 mins             ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-syncmed-service-eklaim   21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-crema-app                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Application              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+syncmed-jenkins          23 mins             ████████░░░░░░░░░░░░░░░░░   31.30 % 
+syncmed-service-eklaim   21 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+syncmed-gateway          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+crema-app                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Application              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (34.23%)
+⏱ AI Coding Time: 29 mins (38.95%)
 
-✍️ 868 lines written by AI, 3 lines written by hand (99.66% AI-written)
+✍️ 868 lines written by AI, 4 lines written by hand (99.54% AI-written)
 
 🔤 130,013 Input Tokens, 43,709 Output Tokens
 
@@ -94,10 +94,10 @@ Windows                  1 hr 24 mins        ███████████�
 Sonnet                   940 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
+🤖 AI-Driven — 99.54% of written lines came from AI
 📚 Verbose Prompter — average 3,469 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.84% of changed lines were hand-edited
+🚀 High AI Trust — 26.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
