@@ -35,7 +35,7 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ```text
 🌞 Morning                640538 commits      ████████░░░░░░░░░░░░░░░░░   32.46 % 
 🌆 Daytime                1084497 commits     ██████████████░░░░░░░░░░░   54.96 % 
-🌃 Evening                230812 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌃 Evening                230813 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 🌙 Night                  17401 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -44,7 +44,7 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 Monday                   385387 commits      █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 Tuesday                  416506 commits      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
 Wednesday                373509 commits      █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Thursday                 364490 commits      █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Thursday                 364491 commits      █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 Friday                   343539 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 Saturday                 49965 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 Sunday                   39852 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
@@ -57,49 +57,49 @@ Sunday                   39852 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               18 hrs 4 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
-PHP                      11 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-Markdown                 5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-JavaScript               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               17 hrs              ████████████░░░░░░░░░░░░░   49.10 % 
+PHP                      8 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Markdown                 4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 38 mins      ██████████████████████░░░   89.25 % 
-VS Code                  4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Claude Code              29 hrs 46 mins      █████████████████████░░░░   85.91 % 
+VS Code                  4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-upclaim                  40 hrs 29 mins      █████████████████████████   98.64 % 
-tasknest-analisis-klaim  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-sesi-aktif-single-active-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-set-indonesian-id-as-app-3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-migrasi-design-system-dar3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+upclaim                  33 hrs 35 mins      ████████████████████████░   96.93 % 
+syncmed-frontend         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+crema-app                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+migrasi-design-system-dar3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+heroui                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  41 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  34 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 41 mins (96.68%)
+⏱ AI Coding Time: 32 hrs 23 mins (93.48%)
 
-✍️ 19,796 lines written by AI, 278 lines written by hand (98.62% AI-written)
+✍️ 15,613 lines written by AI, 277 lines written by hand (98.26% AI-written)
 
-🔤 20,879,632 Input Tokens, 2,712,330 Output Tokens
+🔤 16,799,274 Input Tokens, 2,196,199 Output Tokens
 
-💵 $192.91 Estimated AI Cost This Week
+💵 $157.62 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 306 AI Prompts
+🧠 52 AI Sessions, 238 AI Prompts
 
-Sonnet                   20,740 lines        █████████████████████████   100.00 % 
+Sonnet                   16,502 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.62% of written lines came from AI
-📚 Verbose Prompter — average 12,165 characters per prompt
+🤖 AI-Driven — 98.26% of written lines came from AI
+📚 Verbose Prompter — average 13,138 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 32.35% of changed lines were hand-edited
+🚀 High AI Trust — 37.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
