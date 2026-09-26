@@ -57,49 +57,49 @@ Sunday                   39852 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               17 hrs              ████████████░░░░░░░░░░░░░   49.10 % 
-PHP                      8 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Markdown                 4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               16 hrs 34 mins      ████████████████░░░░░░░░░   62.24 % 
+PHP                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Markdown                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 46 mins      █████████████████████░░░░   85.91 % 
-VS Code                  4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              22 hrs 8 mins       █████████████████████░░░░   83.16 % 
+VS Code                  4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Antigravity CLI          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-upclaim                  33 hrs 35 mins      ████████████████████████░   96.93 % 
-syncmed-frontend         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-crema-app                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-migrasi-design-system-dar3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-heroui                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+upclaim                  25 hrs 35 mins      ████████████████████████░   96.13 % 
+syncmed-frontend         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+crema-app                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+migrasi-design-system-dar3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+syncmed-service-admisi   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  34 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 23 mins (93.48%)
+⏱ AI Coding Time: 24 hrs 27 mins (91.87%)
 
-✍️ 15,613 lines written by AI, 277 lines written by hand (98.26% AI-written)
+✍️ 5,348 lines written by AI, 267 lines written by hand (95.24% AI-written)
 
-🔤 16,799,274 Input Tokens, 2,196,199 Output Tokens
+🔤 13,515,912 Input Tokens, 1,481,118 Output Tokens
 
-💵 $157.62 Estimated AI Cost This Week
+💵 $115.15 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 238 AI Prompts
+🧠 39 AI Sessions, 194 AI Prompts
 
-Sonnet                   16,502 lines        █████████████████████████   100.00 % 
+Sonnet                   6,176 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.26% of written lines came from AI
-📚 Verbose Prompter — average 13,138 characters per prompt
+🤖 AI-Driven — 95.24% of written lines came from AI
+📚 Verbose Prompter — average 13,663 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 37.54% of changed lines were hand-edited
+🚀 High AI Trust — 33.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
