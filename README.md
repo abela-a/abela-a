@@ -57,48 +57,49 @@ Sunday                   40707 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               7 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-PHP                      4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TypeScript               5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+PHP                      4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+Markdown                 1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 5 mins       ████████████████████████░   94.14 % 
-VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Claude Code              12 hrs 7 mins       ████████████████████████░   94.94 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🐱‍💻 Projects: 
-upclaim                  14 hrs 48 mins      █████████████████████████   98.94 % 
-CV 2026                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-_build                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Projects                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+upclaim                  12 hrs 28 mins      ████████████████████████░   97.67 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+CV 2026                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+_build                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Projects                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  14 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 41 mins (98.17%)
+⏱ AI Coding Time: 12 hrs 30 mins (97.88%)
 
-✍️ 8,049 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 6,992 lines written by AI, 105 lines written by hand (98.52% AI-written)
 
-🔤 11,225,999 Input Tokens, 1,275,586 Output Tokens
+🔤 9,292,872 Input Tokens, 1,124,857 Output Tokens
 
-💵 $148.86 Estimated AI Cost This Week
+💵 $133.50 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 106 AI Prompts
+🧠 17 AI Sessions, 91 AI Prompts
 
-Opus                     4,469 lines         █████████████░░░░░░░░░░░░   52.82 % 
-Sonnet                   3,992 lines         ████████████░░░░░░░░░░░░░   47.18 % 
+Opus                     4,469 lines         ███████████████░░░░░░░░░░   60.38 % 
+Sonnet                   2,933 lines         ██████████░░░░░░░░░░░░░░░   39.62 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 10,089 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 98.52% of written lines came from AI
+📚 Verbose Prompter — average 9,010 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
