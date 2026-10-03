@@ -33,21 +33,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                652081 commits      ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌆 Daytime                1101599 commits     ██████████████░░░░░░░░░░░   54.91 % 
-🌃 Evening                234604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌙 Night                  17808 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌞 Morning                299623 commits      ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌆 Daytime                470099 commits      █████████████░░░░░░░░░░░░   53.21 % 
+🌃 Evening                105364 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌙 Night                  8413 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   391909 commits      █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Tuesday                  423311 commits      █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Wednesday                379622 commits      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Thursday                 370898 commits      █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Friday                   348702 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Saturday                 50943 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Sunday                   40707 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Monday                   167491 commits      █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Tuesday                  183181 commits      █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Wednesday                173141 commits      █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Thursday                 177789 commits      █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Friday                   144334 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Saturday                 23559 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Sunday                   14004 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
@@ -105,11 +105,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      15 repos            ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+PHP                      15 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
