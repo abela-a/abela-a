@@ -60,26 +60,26 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                668523 commits      ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌆 Daytime                1126829 commits     ██████████████░░░░░░░░░░░   54.86 % 
-🌃 Evening                240097 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌙 Night                  18395 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌞 Morning                668520 commits      ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌆 Daytime                1126827 commits     ██████████████░░░░░░░░░░░   54.86 % 
+🌃 Evening                240079 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+🌙 Night                  18393 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   401595 commits      █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Tuesday                  433197 commits      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Monday                   401586 commits      █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Tuesday                  433195 commits      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 Wednesday                388417 commits      █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 Thursday                 379878 commits      █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 Friday                   356412 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Saturday                 52296 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Sunday                   42049 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Sunday                   42035 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 
 
@@ -137,11 +137,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-PHP                      15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+PHP                      14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
