@@ -60,26 +60,26 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                679900 commits      ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌆 Daytime                1144132 commits     ██████████████░░░░░░░░░░░   54.83 % 
-🌃 Evening                243966 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌙 Night                  18839 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌞 Morning                682494 commits      ████████░░░░░░░░░░░░░░░░░   32.59 % 
+🌆 Daytime                1148024 commits     ██████████████░░░░░░░░░░░   54.82 % 
+🌃 Evening                244816 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+🌙 Night                  18927 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   408160 commits      █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Tuesday                  439928 commits      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Wednesday                394553 commits      █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Thursday                 385992 commits      █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Friday                   361738 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Saturday                 53351 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Sunday                   43115 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Monday                   409636 commits      █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Tuesday                  441454 commits      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Wednesday                395959 commits      █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Thursday                 387427 commits      █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Friday                   362902 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Saturday                 53562 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Sunday                   43321 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 
 
@@ -137,11 +137,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+PHP                      14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
