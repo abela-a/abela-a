@@ -66,17 +66,17 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 
 ```text
 🌞 Morning                682494 commits      ████████░░░░░░░░░░░░░░░░░   32.59 % 
-🌆 Daytime                1148024 commits     ██████████████░░░░░░░░░░░   54.82 % 
+🌆 Daytime                1148021 commits     ██████████████░░░░░░░░░░░   54.82 % 
 🌃 Evening                244816 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌙 Night                  18927 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌙 Night                  18925 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   409636 commits      █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Tuesday                  441454 commits      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Tuesday                  441451 commits      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 Wednesday                395959 commits      █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Thursday                 387427 commits      █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Thursday                 387425 commits      █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 Friday                   362902 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 Saturday                 53562 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 Sunday                   43321 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
@@ -89,49 +89,49 @@ Sunday                   43321 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 12 hrs 41 mins      ███████████░░░░░░░░░░░░░░   45.11 % 
-Astro                    4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-TypeScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-HTML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-PHP                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Markdown                 14 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.03 % 
+TypeScript               6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Astro                    4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+HTML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+PHP                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 14 mins      ██████████████████████░░░   86.17 % 
-VS Code                  3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Claude Code              29 hrs 55 mins      ██████████████████████░░░   86.24 % 
+VS Code                  4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 
 🐱‍💻 Projects: 
-tasknest-safar-amanah    10 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   39.06 % 
-oxytechid-report         5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-revive-medica-bali       4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-medica-app               3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-syncmed-service-admisi   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+tasknest-safar-amanah    12 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.14 % 
+oxytechid-report         9 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+medica-app               4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+revive-medica-bali       4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+crema-app                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Windows                  28 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  34 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 28 mins (90.6%)
+⏱ AI Coding Time: 31 hrs 53 mins (91.86%)
 
-✍️ 32,894 lines written by AI, 123 lines written by hand (99.63% AI-written)
+✍️ 43,813 lines written by AI, 234 lines written by hand (99.47% AI-written)
 
-🔤 11,394,704 Input Tokens, 2,800,802 Output Tokens
+🔤 26,750,409 Input Tokens, 3,598,422 Output Tokens
 
-💵 $388.06 Estimated AI Cost This Week
+💵 $526.43 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 176 AI Prompts
+🧠 52 AI Sessions, 210 AI Prompts
 
-Opus                     29,936 lines        ██████████████████████░░░   88.62 % 
-Sonnet                   3,846 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Opus                     39,682 lines        ██████████████████████░░░   86.67 % 
+Sonnet                   6,105 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 8,111 characters per prompt
+🤖 AI-Driven — 99.47% of written lines came from AI
+📚 Verbose Prompter — average 7,115 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.45% of changed lines were hand-edited
+🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
