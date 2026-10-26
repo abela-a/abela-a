@@ -60,26 +60,26 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 ### Dev Logs
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                685394 commits      ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌆 Daytime                1151736 commits     ██████████████░░░░░░░░░░░   54.83 % 
-🌃 Evening                244705 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-🌙 Night                  18788 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌞 Morning                686549 commits      ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌆 Daytime                1153284 commits     ██████████████░░░░░░░░░░░   54.82 % 
+🌃 Evening                245045 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+🌙 Night                  18819 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   411327 commits      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Tuesday                  443118 commits      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Wednesday                397499 commits      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Thursday                 388916 commits      █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Friday                   363989 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Saturday                 53051 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Sunday                   42723 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Monday                   411928 commits      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Tuesday                  443739 commits      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Wednesday                398091 commits      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Thursday                 389535 commits      █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Friday                   364441 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Saturday                 53149 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Sunday                   42814 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
@@ -136,11 +136,11 @@ Sonnet                   7,616 lines         ██████░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-PHP                      14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+PHP                      13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Blade                    9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
