@@ -65,21 +65,21 @@ I enjoy contributing to open-source projects, engaging in discussions, and colla
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                693985 commits      ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌆 Daytime                1164821 commits     ██████████████░░░░░░░░░░░   54.80 % 
-🌃 Evening                247573 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-🌙 Night                  19065 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌞 Morning                694851 commits      ████████░░░░░░░░░░░░░░░░░   32.65 % 
+🌆 Daytime                1166128 commits     ██████████████░░░░░░░░░░░   54.80 % 
+🌃 Evening                247880 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+🌙 Night                  19139 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   416306 commits      █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Tuesday                  448284 commits      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Wednesday                402152 commits      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Thursday                 393584 commits      █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Friday                   367970 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Saturday                 53735 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Sunday                   43413 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Monday                   416771 commits      █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Tuesday                  448813 commits      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Wednesday                402621 commits      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Thursday                 393965 commits      █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Friday                   368398 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Saturday                 53876 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Sunday                   43554 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 
 
@@ -89,48 +89,48 @@ Sunday                   43413 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
-Markdown                 8 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
-PHP                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Astro                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               13 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.15 % 
+Markdown                 9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Astro                    3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+PHP                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 26 mins      ██████████████████████░░░   89.09 % 
-VS Code                  2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Claude Code              28 hrs 37 mins      ███████████████████████░░   91.34 % 
+VS Code                  2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🐱‍💻 Projects: 
-tasknest-safar-amanah    10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   38.46 % 
-oxytechid-report         3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-abela-brain              3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-medica-app               3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-tasknest-maupergi        2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+tasknest-safar-amanah    13 hrs 34 mins      ███████████░░░░░░░░░░░░░░   43.29 % 
+tasknest-maupergi        5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+oxytechid-report         3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+abela-brain              3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+medica-app               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 💻 Operating System: 
-Windows                  27 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 8 mins (95.27%)
+⏱ AI Coding Time: 30 hrs 11 mins (96.33%)
 
-✍️ 30,418 lines written by AI, 209 lines written by hand (99.32% AI-written)
+✍️ 26,071 lines written by AI, 195 lines written by hand (99.26% AI-written)
 
-🔤 25,939,935 Input Tokens, 2,917,482 Output Tokens
+🔤 26,285,024 Input Tokens, 3,120,834 Output Tokens
 
-💵 $476.48 Estimated AI Cost This Week
+💵 $507.00 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 194 AI Prompts
+🧠 50 AI Sessions, 218 AI Prompts
 
-Opus                     24,429 lines        ███████████████████░░░░░░   76.23 % 
-Sonnet                   7,616 lines         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Opus                     19,922 lines        ██████████████████░░░░░░░   71.89 % 
+Sonnet                   7,789 lines         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.32% of written lines came from AI
-📄 Detailed Prompter — average 1,336 characters per prompt
+🤖 AI-Driven — 99.26% of written lines came from AI
+📄 Detailed Prompter — average 1,306 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.08% of changed lines were hand-edited
+🚀 High AI Trust — 1.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
